@@ -1,0 +1,1 @@
+java -classpath MailServer.jar;..\config implementations.MailServer
